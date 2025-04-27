@@ -8,7 +8,7 @@
 import SimpleLightbox from 'simplelightbox';
 import 'simplelightbox/dist/simple-lightbox.min.css';
 
-const galleryContainer = document.querySelector('.gallery');
+const galleryContainer = document.querySelector('.gallery ul');
 const loader = document.querySelector('.loader');
 
 export const clearGallery = () => {
