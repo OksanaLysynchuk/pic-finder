@@ -1,8 +1,3 @@
-// handle fetch from pixabay
-//→ Fetch images (pixabay-api.js)
-//→ If error, hide loader + show iziToast
-//→ If no images, hide loader + show iziToast
-
 import axios from 'axios';
 
 const API_KEY = '42752010-70402d91d951665a6458bc92c';

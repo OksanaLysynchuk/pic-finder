@@ -1,10 +1,3 @@
-// render gallery
-//→ Show loader (render-functions.js)
-//→ Clear gallery (render-functions.js)
-//→ Render new gallery (render-functions.js)
-//→ Refresh SimpleLightbox (render-functions.js)
-//→ Hide loader (render-functions.js)
-
 import SimpleLightbox from 'simplelightbox';
 import 'simplelightbox/dist/simple-lightbox.min.css';
 
